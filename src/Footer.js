@@ -1,4 +1,3 @@
-import { isToday } from 'date-fns/esm'
 import React from 'react'
 
 const Footer = () => {
